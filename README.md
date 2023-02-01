@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**Atrovski/Atrovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Seva kapitane 🤑
+Jsem atrovski a jsem wannabe programator ze spse
+https://spsehavirov.cz/
 
-Here are some ideas to get you started:
+## 🚀 Něco o mě
+I'm a full stack developer... To byl vtip, jsem zbytecne useless a vsechny moje kody vypadaji jakoby je dělalo děcko z třetí třídy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## FAQ
+
+#### Jak ses naučil programovat?
+
+https://chat.openai.com/chat
+
+#### Hodláš se věnovat programování i po škole?
+
+int main() {
+  bool x = false; 
+  if (x == true) {   
+    printf("The value of x is true");
+  } else {
+    printf("The value of x is false");
+  }
+
+  return 0;
+  // Output: The value of x is false
+} 
+
