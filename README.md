@@ -1,8 +1,8 @@
-# Seva kapitane 🫡
+# Seva kapitane 👋
 Jsem atrovski a jsem wannabe programator ze spse
 https://spsehavirov.cz/
 
-## 🚀 Něco o mě
+## 🧑Nějaký vtípky o mně 
 I'm a full stack developer... To byl vtip, jsem zbytecne useless a vsechny moje kody vypadaji jakoby je dělalo děcko z třetí třídy
 
 
@@ -27,7 +27,7 @@ int main() {
   }
  ```
  
-## TADY NAJDEŠ TY MORESY CO DĚLÁM VE ŠKOLE
+##⬇️ TADY NAJDEŠ TY MORESY CO DĚLÁM VE ŠKOLE ⬇️
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atrovski&repo=spse_klasa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ##
 
