@@ -1,9 +1,3 @@
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=atrovski&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
 # Seva kapitane 🤑
 Jsem atrovski a jsem wannabe programator ze spse
 https://spsehavirov.cz/
