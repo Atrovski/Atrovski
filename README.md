@@ -27,10 +27,10 @@ int main() {
 } 
 ## TADY NAJDEŠ TY MORESY CO DĚLÁM VE ŠKOLE
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atrovski&repo=spse_klasa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+##
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atrovski&hide=html&layout=compact&theme=dark)](https://github.com/atrovski/github-readme-stats)
-![Atrovki's GitHub stats](https://github-readme-stats.vercel.app/api?username=atrovski&show_icons=true&theme=dark)
+![Atrovki's GitHub stats](https://github-readme-stats.vercel.app/api?username=atrovski&show_icons=false&theme=dark)
 
 
 
