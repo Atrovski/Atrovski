@@ -1,4 +1,4 @@
-# Seva kapitane 🤑
+# Seva kapitane 🫡
 Jsem atrovski a jsem wannabe programator ze spse
 https://spsehavirov.cz/
 
