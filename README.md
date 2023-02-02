@@ -27,7 +27,8 @@ int main() {
 } 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atrovski&hide=html&layout=compact&theme=dark)](https://github.com/atrovski/github-readme-stats)
-[![Atrovski's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Atrovski&theme=dark)](https://github.com/atrovski/github-readme-stats)
+![Atrovki's GitHub stats](https://github-readme-stats.vercel.app/api?username=atrovski&show_icons=true&theme=dark)
+
 
 
 
