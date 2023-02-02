@@ -27,7 +27,7 @@ int main() {
   }
  ```
  
-##⬇️ TADY NAJDEŠ TY MORESY CO DĚLÁM VE ŠKOLE ⬇️
+##TADY NAJDEŠ TY MORESY CO DĚLÁM VE ŠKOLE ⬇️
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atrovski&repo=spse_klasa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ##
 
