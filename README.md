@@ -27,7 +27,6 @@ int main() {
   // Output: The value of x is false
 } 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atrovski&hide=html)](https://github.com/atrovski/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atrovski&hide=html&layout=compact&theme=dark)](https://github.com/atrovski/github-readme-stats)
 
 
