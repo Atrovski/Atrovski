@@ -13,7 +13,7 @@ I'm a full stack developer... To byl vtip, jsem zbytecne useless a vsechny moje 
 https://chat.openai.com/chat
 
 #### Hodláš se věnovat programování i po škole?
-
+```
 int main() {
   bool x = false; 
   if (x == true) {   
@@ -24,7 +24,9 @@ int main() {
 
   return 0;
   // Output: The value of x is false
-} 
+  }
+ ```
+ 
 ## TADY NAJDEŠ TY MORESY CO DĚLÁM VE ŠKOLE
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atrovski&repo=spse_klasa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ##
