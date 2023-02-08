@@ -1,4 +1,5 @@
 # Seva kapitane 👋
+Já jsem Atro, a jsem celkem wannabe programator, ale když se snažím, něco se v ty mojí hlavě najde:)
 <img src="https://github.com/Atrovski/Atrovski/blob/main/atrovski_edit.jpg" alt="Alt text" title="Optional title">
 
 ## FAQ
