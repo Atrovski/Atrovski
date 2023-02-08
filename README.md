@@ -5,7 +5,7 @@ https://spsehavirov.cz/
 ## 🧑Nějaký vtípky o mně 
 I'm a full stack developer... To byl vtip, jsem zbytecne useless a vsechny moje kody vypadaji jakoby je dělalo děcko z třetí třídy
 
-<img src="" alt="Alt text" title="Optional title">
+<img src="https://github.com/Atrovski/Atrovski/blob/main/atrovski_edit.jpg" alt="Alt text" title="Optional title">
 
 ## FAQ
 
